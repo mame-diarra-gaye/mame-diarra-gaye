@@ -1,4 +1,4 @@
-# Bonjour, moi c'est Mame Diarra Bousso Gaye 👋
+# Bonjour, moi c'est Diarra 👋
 
 🎓  Étudiante en Master 1 Épidémiologie, Données de Santé & Biostatistiques  
 📍 Université de Montpellier  

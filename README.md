@@ -19,7 +19,7 @@
 ## 🧰 Mes super-pouvoirs (en cours de chargement...)
 
 - 📊 Analyse statistique avec **R** (ggplot2, DESeq2, edgeR, shiny)
-- 🧬 Traitement de données -omiques : **RNA-Seq**, **heatmaps**
+- 🧬 Analyse de données -omiques : RNA-Seq, ACP, heatmaps, enrichissement GO
 - 🤖 Bases de machine learning : **arbres de décision**, **k-NN**, **LDA**
 - 📑 Communication scientifique : **rapports RMarkdown**, **présentations**
 - 🧪 Intérêt fort pour les analyses en **épidémiologie**, **biostatistiques**, et **santé publique**
@@ -45,8 +45,6 @@ Projets, stages, alternances, collaborations : je suis ouverte à toutes les bel
 
 ---
 
-
-## Compétences
 
 ## 🧠 Compétences
 

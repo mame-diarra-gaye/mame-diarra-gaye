@@ -48,8 +48,13 @@ Projets, stages, alternances, collaborations : je suis ouverte à toutes les bel
 
 ## Compétences
 
+## 🧠 Compétences
+
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SAS](https://img.shields.io/badge/-SAS-0076A8?style=flat-square&logo=sas&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![RMarkdown](https://img.shields.io/badge/-RMarkdown-198CE7?style=flat-square)
+![Shiny](https://img.shields.io/badge/-Shiny-16a085?style=flat-square)
 
 

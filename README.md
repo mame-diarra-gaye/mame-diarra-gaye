@@ -2,7 +2,6 @@
 
 🎓  Étudiante en Master 1 Épidémiologie, Données de Santé & Biostatistiques  
 📍 Université de Montpellier  
-🔬 Curieuse de nature, passionnée par l’analyse de données et les sciences de la santé  
 🌱 J’apprends chaque jour à transformer les données en actions concrètes grâce à **R**, **Python** et un peu (beaucoup) de **statistiques**  
 📫 Contactez-moi : mame-diarra-bousso.gaye@etu.umontpellier.fr
 
@@ -10,19 +9,22 @@
 
 ## 🔍 À propos de moi
 
-- 🔎 Je m’intéresse particulièrement à l’**épidémiologie**, aux **biostatistiques**, et à la manière dont les données peuvent éclairer les décisions en **santé publique**.
-- 💡 Mon objectif : contribuer à des projets qui allient **données** et **impact humain**
-- 🧩 J’aime résoudre des problèmes complexes et les rendre accessibles avec des visualisations claires et parlantes
+- Curieuse de nature, passionnée par l’analyse de données et les sciences de la santé  
+- Je m’intéresse particulièrement à la manière dont les données peuvent éclairer les décisions en santé publique.
+- Ce qui m’anime : mettre mes compétences au service de projets utiles, concrets, et porteurs de sens
+
 
 ---
 
 ## 🧰 Mes super-pouvoirs (en cours de chargement...)
 
-- 📊 Analyse statistique avec **R** (ggplot2, DESeq2, edgeR, shiny)
-- 🧬 Analyse de données -omiques : RNA-Seq, ACP, heatmaps, enrichissement GO
-- 🤖 Bases de machine learning : **arbres de décision**, **k-NN**, **LDA**
-- 📑 Communication scientifique : **rapports RMarkdown**, **présentations**
-- 🧪 Intérêt fort pour les analyses en **épidémiologie**, **biostatistiques**, et **santé publique**
+-  Analyse statistique avec **R** : ACP, AFC, CAH, K-means, régressions linéaires, LDA…
+-  Analyse de données -omiques : Avec **DESeq2** et **edgeR**, heatmaps, enrichissement GO
+-  Bases de machine learning : arbres de décision, forêts aléatoires, k-NN
+-  Communication scientifique : rapports **RMarkdown**, présentations orales, GitHub
+-  Compétences de base solides en **Python** (badge obtenu via FUN MOOC)
+-  Bases en **épidémiologie** : traitement de données observationnelles, interprétation de résultats, esprit critique
+
 
 ---
 

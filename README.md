@@ -11,19 +11,19 @@
 
 - Curieuse de nature, passionnée par l’analyse de données et les sciences de la santé  
 - Je m’intéresse particulièrement à la manière dont les données peuvent éclairer les décisions en santé publique.
-- Ce qui m’anime : mettre mes compétences au service de projets utiles, concrets, et porteurs de sens
+- Ce qui m’anime: mettre mes compétences au service de projets utiles, concrets, et porteurs de sens
 
 
 ---
 
 ## 🧰 Mes super-pouvoirs (en cours de chargement...)
 
--  Analyse statistique avec **R** : ACP, AFC, CAH, K-means, régressions linéaires, LDA…
--  Analyse de données -omiques : Avec **DESeq2** et **edgeR**, heatmaps, enrichissement GO
--  Bases de machine learning : arbres de décision, forêts aléatoires, k-NN
--  Communication scientifique : rapports **RMarkdown**, présentations orales, GitHub
+-  Analyse statistique avec **R**: ACP, AFC, CAH, K-means, régressions linéaires, LDA…
+-  Analyse de données -omiques: Avec **DESeq2** et **edgeR**, heatmaps, enrichissement GO
+-  Bases de machine learning: arbres de décision, forêts aléatoires, k-NN
+-  Communication scientifique: rapports **RMarkdown**, présentations orales, GitHub
 -  Compétences de base solides en **Python** (badge obtenu via FUN MOOC)
--  Bases en **épidémiologie** : traitement de données observationnelles, interprétation de résultats, esprit critique
+-  Bases en **épidémiologie**: traitement de données observationnelles, interprétation de résultats, esprit critique
 
 
 ---

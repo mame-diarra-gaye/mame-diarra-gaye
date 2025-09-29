@@ -20,10 +20,10 @@
 
 -  **Analyse statistique avec R:** Modèles linéaires, modèles linéaires généralisés, modèles mixtes, analyse de survie, modélisation conjointe, ACP, AFC, CAH, K-means, LDA, régressions linéaires et logistiques.
 -  **Analyse de données omiques:** RNA-Seq, packages **DESeq2** et **edgeR**, création de heatmaps, analyses d’enrichissement fonctionnel **(GO, KEGG)**.
--  **Machine learning:** arbres de décision, forêts aléatoires, k-NN, clustering, initiation aux réseaux de neurones et au Deep learning (Python/R).
--  **Programmation:** bonnes bases et projet de data science en Python (pandas, scikit-learn), automatisation de traitements, structuration de workflows sur GitHub.
--  **Bases en épidémiologie:** méthodes d’études observationnelles et essais cliniques, gestion des biais, interprétation critique, synthèse des résultats? épidémiologie quantitative.
--  **Communication scientifique:** rapports **RMarkdown**,dashboard interactif avec shiny, présentations orales, vulgarisation, publication et collaboration sur **GitHub**.
+-  **Machine learning:** Arbres de décision, forêts aléatoires, k-NN, clustering, initiation aux réseaux de neurones et au Deep learning (Python/R).
+-  **Programmation:** Bonnes bases et projet de data science en Python (pandas, scikit-learn), automatisation de traitements, structuration de workflows sur GitHub.
+-  **Bases en épidémiologie:** Méthodes d’études observationnelles et essais cliniques, gestion des biais, interprétation critique, synthèse des résultats, épidémiologie quantitative.
+-  **Communication scientifique:** Rapports **RMarkdown**, dashboard interactif avec shiny, présentations orales, vulgarisation, publication et collaboration sur **GitHub**.
 
 
 ---

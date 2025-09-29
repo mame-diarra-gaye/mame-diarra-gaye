@@ -1,9 +1,9 @@
 # Bonjour, moi c'est Diarra 👋
 
-🎓  Étudiante en Master 1 Épidémiologie, Données de Santé & Biostatistiques  
+🎓  Étudiante en Master 2 Épidémiologie, Données de Santé & Biostatistiques parcours Data analyst pouir les sciences du vivant.
 📍 Université de Montpellier  
 🌱 J’apprends chaque jour à transformer les données en actions concrètes grâce à **R**, **Python** et un peu (beaucoup) de **statistiques**  
-📫 Contactez-moi : mame-diarra-bousso.gaye@etu.umontpellier.fr
+📫 Contactez-moi : mame-diarra-bousso.gaye@etu.umontpellier.fr ou boussobally080@gmail.com
 
 ---
 
@@ -18,19 +18,19 @@
 
 ## 🧰 Mes super-pouvoirs (en cours de chargement...)
 
--  Analyse statistique avec **R**: ACP, AFC, CAH, K-means, régressions linéaires, LDA…
--  Analyse de données -omiques: Avec **DESeq2** et **edgeR**, heatmaps, enrichissement GO
--  Bases de machine learning: arbres de décision, forêts aléatoires, k-NN
--  Communication scientifique: rapports **RMarkdown**, présentations orales, GitHub
--  Compétences de base solides en **Python** (badge obtenu via FUN MOOC)
--  Bases en **épidémiologie**: traitement de données observationnelles, interprétation de résultats, esprit critique
+-  **Analyse statistique avec R:** Modèles linéaires, modèles linéaires généralisés, modèles mixtes, analyse de survie, modélisation conjointe, ACP, AFC, CAH, K-means, LDA, régressions linéaires et logistiques.
+-  **Analyse de données omiques:** RNA-Seq, packages **DESeq2** et **edgeR**, création de heatmaps, analyses d’enrichissement fonctionnel **(GO, KEGG)**.
+-  **Machine learning:** arbres de décision, forêts aléatoires, k-NN, clustering, initiation aux réseaux de neurones et au Deep learning (Python/R).
+-  **Programmation:** bonnes bases et projet de data science en Python (pandas, scikit-learn), automatisation de traitements, structuration de workflows sur GitHub.
+-  **Bases en épidémiologie:** méthodes d’études observationnelles et essais cliniques, gestion des biais, interprétation critique, synthèse des résultats? épidémiologie quantitative.
+-  **Communication scientifique:** rapports **RMarkdown**,dashboard interactif avec shiny, présentations orales, vulgarisation, publication et collaboration sur **GitHub**.
 
 
 ---
 
 ## 🌍 Ce que je cherche
 
-Un environnement où **les données** servent à **améliorer la santé des populations**, où je peux apprendre, contribuer, et faire la différence — notamment dans le cadre d’une **alternance de 12 mois à partir de septembre 2025**.
+Un environnement où **les données** servent à **améliorer la santé des populations**, où je peux apprendre, contribuer, et faire la différence — notamment dans le cadre d’un **stage de 6 mois à partir de Février 2025**.
 
 ---
 

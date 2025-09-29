@@ -30,7 +30,7 @@
 
 ## 🌍 Ce que je cherche
 
-Un environnement où **les données** servent à **améliorer la santé des populations**, où je peux apprendre, contribuer, et faire la différence — notamment dans le cadre d’un **stage de 6 mois à partir de Février 2025**.
+Un environnement où **les données** servent à **améliorer la santé des populations**, où je peux apprendre, contribuer, et faire la différence — notamment dans le cadre d’un **stage de 6 mois à partir de Février 2026**.
 
 ---
 

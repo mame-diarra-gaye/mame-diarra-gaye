@@ -2,8 +2,8 @@
 
 🎓  Étudiante en Master 2 Épidémiologie, Données de Santé & Biostatistiques parcours Data analyst pouir les sciences du vivant.
 📍 Université de Montpellier  
-🌱 J’apprends chaque jour à transformer les données en actions concrètes grâce à **R**, **Python** et un peu (beaucoup) de **statistiques**  
-📫 Contactez-moi : mame-diarra-bousso.gaye@etu.umontpellier.fr ou boussobally080@gmail.com
+🌱 J’apprends chaque jour à transformer les données en actions concrètes grâce à **R** et un peu (beaucoup) de **statistiques**  
+📫 Contactez-moi: mame-diarra-bousso.gaye@etu.umontpellier.fr ou boussobally080@gmail.com
 
 ---
 
@@ -18,7 +18,7 @@
 
 ## 🧰 Mes super-pouvoirs (en cours de chargement...)
 
--  **Analyse statistique avec R:** Modèles linéaires, modèles linéaires généralisés, modèles mixtes, analyse de survie, modélisation conjointe, ACP, AFC, CAH, K-means, LDA, régressions linéaires et logistiques.
+-  **Analyse statistique avec R:** Modèles conjoints, modèles linéaires généralisés, modèles linéaires mixtes, analyse de survie, , ACP, AFC, CAH, K-means, LDA, régressions linéaires et logistiques.
 -  **Analyse de données omiques:** RNA-Seq, packages **DESeq2** et **edgeR**, création de heatmaps, analyses d’enrichissement fonctionnel **(GO, KEGG)**.
 -  **Machine learning:** Arbres de décision, forêts aléatoires, k-NN, clustering, initiation aux réseaux de neurones et au Deep learning (Python/R).
 -  **Programmation:** Bonnes bases et projet de data science en Python (pandas, scikit-learn), automatisation de traitements, structuration de workflows sur GitHub.
